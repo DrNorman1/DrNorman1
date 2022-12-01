@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrNorman1
-- 👀 I’m interested in DEv Sec Ops
+- 👀 I’m interested in Dev-Sec-Ops
 - 🌱 I’m currently learning SE
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
